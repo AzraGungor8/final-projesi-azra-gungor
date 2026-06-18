@@ -69,3 +69,8 @@ python -m streamlit run app.py
 ## Yapay Zekâ Araçları
 
 Kod geliştirme sürecinde ChatGPT'den destek alınmıştır.
+## Tanıtım Videosu
+
+Video bağlantısı:
+
+https://youtu.be/ka7U2URiEF4
